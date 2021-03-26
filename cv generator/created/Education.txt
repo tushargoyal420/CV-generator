@@ -1,0 +1,11 @@
+Educational Details- 
+ School Name: JNV 
+ School Join Year: 2015 
+ School End Year: 2016 
+ City: DUN 
+ Educational Details- 
+ School Name: JNV 
+ School Join Year: 2017 
+ School End Year: 2018 
+ City: PAURI 
+ 
